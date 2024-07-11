@@ -14,7 +14,7 @@ RUN pip install --no-cache-dir -r requierements.txt
 COPY . /app
 
 #Copie du fichier CSV
-COPY Online/Sales/Data.csv /app/Online_Sales_Data.csv
+COPY Online_Sales_Data.csv /app/Online_Sales_Data.csv
 
 #Exposition du port
 EXPOSE 8501
