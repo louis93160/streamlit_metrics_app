@@ -20,4 +20,4 @@ COPY Online_Sales_Data.csv /app/Online_Sales_Data.csv
 EXPOSE 8501
 
 #Commande pour lancer l'application
-CMD [ "streamlit", "RUN", "app.py" ]
+CMD [ "streamlit", "run", "app.py" ]
