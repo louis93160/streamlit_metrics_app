@@ -37,3 +37,12 @@ Dans de nombreux projets de data Engineering et d'analyse de données, la visual
 - **Pandas** : Pour la manipulation et l'analyse des données.
 - **Plotly** : Pour créer des visualisations de données interactives et riches.
 - **Docker** : Pour conteneuriser l'application et garantir sa portabilité.
+
+## Présentation des résultats
+
+<p align="center">
+  <img src="Capture d’écran 2024-09-16 231732.jpg" alt="résultat_1" height="300">
+  <img src="Capture d’écran 2024-09-16 231819.jpg" alt="résultat_2" height="300">
+  <img src="Capture d’écran 2024-09-16 231954.jpg" alt="résultat_3" height="300">
+  <img src="Capture d’écran 2024-09-16 232051.jpg" alt="résultat_4" height="300">
+</p>
